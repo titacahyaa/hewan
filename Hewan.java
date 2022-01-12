@@ -18,6 +18,8 @@ public class Hewan {
         System.out.println("Macan adalah hewan yg galak");
          System.out.println("kura kura berjalan lambat");
           System.out.println("kucing adalah hewan yang lucu");
+          System.out.println("user 2");
+          
     }
     
 }
