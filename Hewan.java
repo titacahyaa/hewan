@@ -16,6 +16,7 @@ public class Hewan {
      */
     public static void main(String[] args) {
         System.out.println("Macan adalah hewan yg galak");
+         System.out.println("kura kura berjalan lambat");
     }
     
 }
