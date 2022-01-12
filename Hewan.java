@@ -19,6 +19,8 @@ public class Hewan {
          System.out.println("kura kura berjalan lambat");
           System.out.println("kucing adalah hewan yang lucu");
           System.out.println("user 2");
+          System.out.println("coba");
+
           
     }
     
